@@ -9,3 +9,14 @@ D:\calculator\newproject1\newproject1\bin\Debug\newproject1.exe
 D:\calculator\newproject1\newproject1\bin\Debug\newproject1.pdb
 D:\calculator\newproject1\newproject1\obj\Debug\newproject1.exe
 D:\calculator\newproject1\newproject1\obj\Debug\newproject1.pdb
+D:\emloyee\Employee-Information-System\newproject1\bin\Debug\newproject1.exe.config
+D:\emloyee\Employee-Information-System\newproject1\bin\Debug\newproject1.exe
+D:\emloyee\Employee-Information-System\newproject1\bin\Debug\newproject1.pdb
+D:\emloyee\Employee-Information-System\newproject1\obj\Debug\newproject1.csproj.AssemblyReference.cache
+D:\emloyee\Employee-Information-System\newproject1\obj\Debug\newproject1.csproj.SuggestedBindingRedirects.cache
+D:\emloyee\Employee-Information-System\newproject1\obj\Debug\newproject1.Form1.resources
+D:\emloyee\Employee-Information-System\newproject1\obj\Debug\newproject1.Properties.Resources.resources
+D:\emloyee\Employee-Information-System\newproject1\obj\Debug\newproject1.csproj.GenerateResource.cache
+D:\emloyee\Employee-Information-System\newproject1\obj\Debug\newproject1.csproj.CoreCompileInputs.cache
+D:\emloyee\Employee-Information-System\newproject1\obj\Debug\newproject1.exe
+D:\emloyee\Employee-Information-System\newproject1\obj\Debug\newproject1.pdb
