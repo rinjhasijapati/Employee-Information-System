@@ -95,5 +95,17 @@ namespace newproject1
             cmd.ExecuteNonQuery();
             con.Close();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            DataGridViewRow data = dataGridView1.CurrentRow;
+            string EmpName = data.Cells["EmpName"].Value.ToString();
+            string Address = data.Cells["Address"].Value.ToString();
+            string Salary = data.Cells["Salary"].Value.ToString();
+
+            textBox1.Text = EmpName;
+            textBox2.Text = Address;
+            textBox3.Text = Salary;
+        }
     }
 }
